@@ -285,7 +285,6 @@ st.markdown(
 
 Made with ❤️ by <b>Mayur Pophale</b>
 
-Government College of Engineering, Aurangabad
 
 </center>
 """,
