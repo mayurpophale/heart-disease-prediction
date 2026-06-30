@@ -29,9 +29,5 @@ UCI Heart Disease Dataset
 ## 🤖 Model
 K-Nearest Neighbors (KNN)
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
 ## 👨‍💻 Author
 Mayur Pophale
